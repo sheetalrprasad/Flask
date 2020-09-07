@@ -1,0 +1,41 @@
+body{
+    background-color: seagreen;
+}
+
+h1{
+    font-style: italic;
+}
+
+.header-top{
+    background-color:  aquamarine;
+    font-style: italic;
+}
+
+.brand-name{
+    color: rgb(4, 17, 56);
+}
+
+.nav-item{
+    color: rgb(4, 17, 56);
+    padding: 5px;
+}
+
+
+
+.center-div{
+    position: absolute;
+    left: auto;
+    right: auto;
+    width: 90%;
+    height: 100%;
+    border-radius: 1em;
+    background-color: white;
+    padding: 20px;
+    word-wrap: normal;
+    word-break: break-all;
+}
+
+.title{
+    text-align: center;
+}
+
